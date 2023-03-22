@@ -1,3 +1,30 @@
+# mbta-stop-display
+
+# 🚀 This project is an experimentation with displaying MBTA stop arrivals for dedicated displays. 🚀
+
+https://github.com/coding-to-music/mbta-stop-display
+
+From / By https://github.com/jprusik/mbta-stop-display
+
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/mbta-stop-display.git
+git push -u origin main
+```
+
 # MBTA Stop Display
 
 This is a WiP project to experiment with displaying MBTA line/stop information on an in-home, purpose-built display.
