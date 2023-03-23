@@ -32,6 +32,8 @@ This is a WiP project to experiment with displaying MBTA line/stop information o
 
 See the app in action: [https://jprusik.github.io/mbta-stop-display/](https://jprusik.github.io/mbta-stop-display/)
 
+![](images/screenshot.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Getting started
